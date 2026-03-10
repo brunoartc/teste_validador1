@@ -26,14 +26,6 @@
     }
   ],
   "profile": {
- "version":"1.0.0",
- "prescription":{
-   "signatureFiles":[
-     {
-       "url":"https://d22mzbvgd5obb5.cloudfront.net/proposta_flexform_industria_e_comercio_de_moveis_ltda_assinado.pdf"
-     }
-   ]
- }
+    "name": "typicode"
+  }
 }
-}
-
